@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Songs</title>
+  
+
+  <!-- CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+  <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <link href="css/nivo-lightbox.css" rel="stylesheet" />
+  <link href="css/nivo-lightbox-theme/default/default.css" rel="stylesheet" type="text/css" />
+  <link href="css/owl.carousel.css" rel="stylesheet" media="screen" />
+  <link href="css/owl.theme.css" rel="stylesheet" media="screen" />
+  <link href="css/animate.css" rel="stylesheet" />
+  <link href="css/style.css" rel="stylesheet">
+  <link href="color/default.css" rel="stylesheet">
+  <!-- =======================================================
+    Theme Name: Lonely
+    Theme URL: https://bootstrapmade.com/free-html-bootstrap-template-lonely/
+    Author: BootstrapMade
+    Author URL: https://bootstrapmade.com
+  ======================================================= -->
+
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-custom">
+  <!-- Preloader -->
+  <div id="preloader">
+    <div id="load"></div>
+  </div>
+
+  <!-- Section: intro -->
+  <section id="intro" class="intro"></section>
+  <!-- /Section: intro -->
+
+  <!-- Navigation -->
+   <div id="navigation">
+    <nav class="navbar navbar-custom" role="navigation">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+
+         
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu">
+                                                <i class="fa fa-bars"></i>
+                                                </button>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="menu">
+              <ul class="nav navbar-nav">
+                <li class="active"><a href="index.html"><img src="img/gallery/building.png" alt="Castle for home"></a></li>
+                <li><a href="reading.html"><img src="img/gallery/book.png" alt="Reading page"></a></li>
+                <li><a href="math.html"><img src="img/gallery/abacus.png" alt="Mathematics page"></a></li>
+				<li><a href="shapes.html"><img src="img/gallery/game.png" alt="Shapes page"></a></li>
+				<li><a href="songs.html"><img src="img/gallery/party.png" alt="Music page"></a></li>
+				<li><a href="about.html"><img src="img/gallery/happy.png" alt="About page"></a></li>
+              </ul>
+            </div>
+            <!-- /.Navbar-collapse -->
+
+          </div>
+        </div>
+      </div>
+      <!-- /.container -->
+    </nav>
+  </div>
+  <!-- /Navigation -->
+  
+  <section id="songs" class="home-section">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+
+          <div class="section-heading text-center">
+            <div class="wow bounceInDown" data-wow-delay="0.2s">
+              <h2>Let's Sing!</h2>
+            </div>
+            <p class="wow bounceInUp" data-wow-delay="0.3s">Here we can watch and sing variety of songs</p>
+          </div>
+
+        </div>
+      </div>
+    </div>
+	
+  </section>
+  
+  
+  <section id="old" class="home-section text-center bg-farm">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-12 col-lg-12">
+          <div class="wow bounceInUp" data-wow-delay="0.4s">
+            <h2>Old Macdonald</h2>
+            </div>
+			  <p class="wow bounceInUp" data-wow-delay="0.3s">Video courtesy by <u><a href="https://www.youtube.com/channel/UCbCmjCuTUZos6Inko4u57UQ" title="Cocomelon">Cocomelon</a></u></p>
+          </div>
+        </div>
+	</div>
+	  <div class="wow bounceInDown" data-wow-delay="0.2s">
+           <iframe width="1200" height="500" src="https://www.youtube.com/embed/Wm4R8d0d8kU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+			<button type="button" class = "button"><a href = "#oldlyrics">See Lyrics</a></button>
+	  
+    </div>
+  </section>
+  <section id="oldlyrics" class="home-section text-center bg-white">
+   <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-12 col-lg-12">
+          <div class="wow bounceInUp" data-wow-delay="0.4s">
+            <h2>Old Macdonald</h2>
+            </div>
+			<p>
+			Old MacDonald had a farm
+			E-I-E-I-O! <br>
+			And on this farm he had a horse
+			E-I-E-I-O! <br>
+			With a neigh neigh here
+			And a neigh neigh there
+			Here a neigh, there a neigh,
+			Everywhere a neigh neigh!
+			Old MacDonald had a farm
+			E-I-E-I-O!
+			</p>
+			  
+          </div>
+        </div>
+	</div>
+  
+   </section>
+  
+             <section id="separator" class="home-section parallax text-center" data-stellar-background-ratio="0.5"></section>
+
+  <section id="songs" class="home-section text-center bg-star">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-12 col-lg-12">
+          <div class="wow bounceInUp" data-wow-delay="0.4s">
+            <h2 style="color: white; " >Twinkle, twinkle, little star</h2>
+            </div>
+			  <p class="wow bounceInUp" data-wow-delay="0.3s">Video courtesy by <u><a href="https://www.youtube.com/channel/UCbCmjCuTUZos6Inko4u57UQ" title="Cocomelon">Cocomelon</a></u></p>
+          </div>
+        </div>
+	</div>
+	  <div class="wow bounceInDown" data-wow-delay="0.2s">
+			<iframe width="1200" height="500" src="https://www.youtube.com/embed/n38kGst16sI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+	  
+    </div>
+  </section>
+  
+         <section id="separator" class="home-section parallax text-center" data-stellar-background-ratio="0.5"></section>
+		 
+	<section id="songs" class="home-section text-center bg-bus">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-12 col-lg-12">
+          <div class="wow bounceInUp" data-wow-delay="0.4s">
+            <h2>Wheels on the bus</h2>
+            </div>
+			  <p class="wow bounceInUp" data-wow-delay="0.3s">Video courtesy by <u><a href="https://www.youtube.com/channel/UCbCmjCuTUZos6Inko4u57UQ" title="Cocomelon">Cocomelon</a></u></p>
+          </div>
+        </div>
+	</div>
+	  <div class="wow bounceInDown" data-wow-delay="0.2s">
+			<iframe width="1200" height="500" src="https://www.youtube.com/embed/e_04ZrNroTo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+	  
+    </div>
+  </section>
+  
+  <section id="separator" class="home-section parallax text-center" data-stellar-background-ratio="0.5"></section>
+	 <section id="songs" class="home-section text-center bg-pigs">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-12 col-lg-12">
+          <div class="wow bounceInUp" data-wow-delay="0.4s">
+            <h2 style="color: white; " >Three little pigs</h2>
+            </div>
+			  <p class="wow bounceInUp" data-wow-delay="0.3s">Video courtesy by <u><a href="https://www.youtube.com/channel/UCbCmjCuTUZos6Inko4u57UQ" title="Cocomelon" >Cocomelon</a></u></p>
+          </div>
+        </div>
+	</div>
+	  <div class="wow bounceInDown" data-wow-delay="0.2s">
+			<iframe width="1200" height="500" src="https://www.youtube.com/embed/2s7cz6p7jew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+	  
+    </div>
+  </section>
+  
+   <footer>
+  <div class ="footer-content">
+		<p>copyright &copy;2021 BSIT-I. designed by <span>Dana Latoja, Anzel Tolentino</span></p>
+	</div>
+</footer>
+  
+
+
+  <!-- Core JavaScript Files -->
+  <script src="js/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/jquery.easing.min.js"></script>
+  <script src="js/jquery.sticky.js"></script>
+  <script src="js/jquery.scrollTo.js"></script>
+  <script src="js/stellar.js"></script>
+  <script src="js/wow.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/nivo-lightbox.min.js"></script>
+  <!-- Custom Theme JavaScript -->
+  <script src="js/custom.js"></script>
+  <script src="contactform/contactform.js"></script>
+
+</body>
+
+</html>

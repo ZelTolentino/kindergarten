@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title></title>
+
+  <!-- CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+  <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <link href="css/nivo-lightbox.css" rel="stylesheet" />
+  <link href="css/nivo-lightbox-theme/default/default.css" rel="stylesheet" type="text/css" />
+  <link href="css/owl.carousel.css" rel="stylesheet" media="screen" />
+  <link href="css/owl.theme.css" rel="stylesheet" media="screen" />
+  <link href="css/animate.css" rel="stylesheet" />
+  <link href="css/style.css" rel="stylesheet">
+  <link href="color/default.css" rel="stylesheet">
+  <!-- =======================================================
+    Theme Name: Lonely
+    Theme URL: https://bootstrapmade.com/free-html-bootstrap-template-lonely/
+    Author: BootstrapMade
+    Author URL: https://bootstrapmade.com
+  ======================================================= -->
+
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-custom">
+  <!-- Preloader -->
+  <div id="preloader">
+    <div id="load"></div>
+  </div>
+
+  <!-- Section: intro -->
+  <section id="intro" class="intro"></section>
+  <!-- /Section: intro -->
+
+  <!-- Navigation -->
+   <div id="navigation">
+    <nav class="navbar navbar-custom" role="navigation">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+
+         
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu">
+                                                <i class="fa fa-bars"></i>
+                                                </button>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="menu">
+              <ul class="nav navbar-nav">
+                <li class="active"><a href="index.html"><img src="img/gallery/building.png" alt="homepage"></a></li>
+                <li><a href="reading.html"><img src="img/gallery/book.png" alt="Reading page"></a></li>
+                <li><a href="math.html"><img src="img/gallery/abacus.png" alt="Mathematics page"></a></li>
+				<li><a href="shapes.html"><img src="img/gallery/game.png" alt="Shapes page"></a></li>
+				<li><a href="songs.html"><img src="img/gallery/party.png" alt="Music page"></a></li>
+				<li><a href="about.html"><img src="img/gallery/happy.png" alt="About page"></a></li>
+              </ul>
+            </div>
+            <!-- /.Navbar-collapse -->
+
+          </div>
+        </div>
+      </div>
+      <!-- /.container -->
+    </nav>
+  </div>
+  <!-- /Navigation -->
+
+  <!-- Section: about -->
+  <section id="alphabet" class="home-section text-center">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+
+          <div class="section-heading text-center">
+            <div class="wow bounceInDown" data-wow-delay="0.2s">
+              <h1>Let's learn the alphabet together!</h1>
+            </div>
+			 <div class="wow bounceInDown" data-wow-delay="0.2s">
+              <h2>Reading Lesson 1:</h2>
+            </div>
+            <p class="wow bounceInUp" data-wow-delay="0.3s"><u>Remembering Letters</u></p>
+          </div>
+		  <div>
+		  <audio controls>
+			<source src="audio/abc.mp3" type="audio/mp3">
+		  </audio>
+		  <p class="wow bounceInUp" data-wow-delay="0.3s">Click here to listen!</p>
+		  </div>
+
+        </div>
+		<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp">						
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-a.png" alt="Book to read">
+		</div>
+			<h3>Apple</h3>
+						
+	</div>
+					
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-b.png" alt="Book to read">
+		</div>
+			<h3>Bee</h3>
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-c.png" alt="Book to read">
+		</div>
+			<h3>Cat</h3>
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-d.png" alt="Book to read">
+		</div>
+			<h3>Drums</h3>
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-e.png" alt="Book to read">
+		</div>
+			<h3>Egg</h3>
+						
+	</div>
+	
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-f.png" alt="Book to read">
+		</div>
+			<h3>Fish</h3>
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-g.png" alt="Book to read">
+		</div>
+			<h3>Gloves</h3>
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-h.png" alt="Book to read">
+		</div>
+			<h3>House</h3>
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-i.png" alt="Book to read">
+		</div>
+			<h3>Igloo</h3>
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-j.png" alt="Book to read">
+		</div>
+			<h3>Jar</h3>
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-k.png" alt="Book to read">
+		</div>
+			<h3>Key</h3>
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-l.png" alt="Book to read">
+		</div>
+			<h3>Lock</h3>
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-m.png" alt="Book to read">
+		</div>
+			<h3>Mug</h3>
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-n.png" alt="Book to read">
+		</div>
+			<h3>Net</h3>
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-o.png" alt="Book to read">
+		</div>
+			<h3>Orange</h3>
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-p.png" alt="Book to read">
+		</div>
+			<h3>Pumpkin</h3>
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-q.png" alt="Book to read">
+		</div>
+			<h3>Queen</h3>
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-r.png" alt="Book to read">
+		</div>
+			<h3>Robot</h3>
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-s.png" alt="Book to read">
+		</div>
+			<h3>Snake</h3>
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-t.png" alt="Book to read">
+		</div>
+			<h3>Teapot</h3>
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-u.png" alt="Book to read">
+		</div>
+			<h3>Umbrella</h3>
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-v.png" alt="Book to read">
+		</div>
+			<h3>Volcano</h3>
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-w.png" alt="Book to read">
+		</div>
+			<h3>Watch</h3>
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-x.png" alt="Book to read">
+		</div>
+			<h3>Xylophone</h3>
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-y.png" alt="Book to read">
+		</div>
+			<h3>Yoyo</h3>
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-z.png" alt="Book to read">
+		</div>
+			<h3>Zipper</h3>
+						
+	</div>
+		
+      </div>
+	  <h6>Audio courtesy by <a href="https://www.dreamenglish.com/" title="Dream English">Dream English</a></h6>
+    </div>
+  </section>
+  
+    <section id="separator" class="home-section parallax text-center" data-stellar-background-ratio="0.5"></section>
+
+  
+  <section id="vowels" class="home-section text-center bg-white">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-12 col-lg-12">
+          <div class="wow bounceInUp" data-wow-delay="0.4s">
+            <h2>Reading Lesson 2:</h2>
+            </div>
+			 <p class="wow bounceInUp" data-wow-delay="0.3s"><u>Vowels</u></p>
+          </div>
+        </div>
+		<ul class="vowel-cons">
+								<li class="wow animated bounceInDown"><img src="img/phonics/letter-a.png" alt="Letter A"></li>
+								<li class="wow animated bounceInUp"><img src="img/phonics/letter-e.png" alt="Letter E"></li>
+								<li class="wow animated bounceInDown"><img src="img/phonics/letter-i.png" hspace=15 vspace=15 alt="Letter I"></li>
+								<li class="wow animated bounceInUp"><img src="img/phonics/letter-o.png" hspace=30 vspace=30 alt="Letter O"></li>
+								<li class="wow animated bounceInDown"><img src="img/phonics/letter-u.png" hspace=30 vspace=30 alt="Letter U"></li>
+							</ul>
+	  </div>
+	  <br>
+	  <div class="wow bounceInDown" data-wow-delay="0.2s">
+			<p class="wow bounceInUp" data-wow-delay="0.3s">Click the video to watch and hear the sound of vowels:</p>
+              <iframe width="1200" height="500" src="https://www.youtube.com/embed/g3eUZAI8bTU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <h6>Video courtesy by <a href="https://www.youtube.com/channel/UChsBxlwe3VjPRt1ES4rIT4g" title="Lotty Learns">Lotty Learns</a></h6>
+			</div>
+    </div>
+  </section>
+  
+  <section id="consonants" class="home-section text-center bg-white">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-12 col-lg-12">
+          <div class="wow bounceInUp" data-wow-delay="0.4s">
+            <h2>Reading Lesson 2:</h2>
+            </div>
+			 <p class="wow bounceInUp" data-wow-delay="0.3s"><u>Consonants</u></p>
+          </div>
+        </div>
+		 <div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp"> 
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-b.png" alt="Letter B">
+		</div>
+			
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown"> 
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-c.png" alt="Letter C">
+		</div>
+		
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp"> 
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-d.png" alt="Letter D">
+		</div>
+		
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown"> 
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-f.png" alt="Letter F">
+		</div>
+			
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown"> 
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-g.png" vspace=20 alt="Letter G"> 
+		</div>
+			
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp"> 
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-h.png" vspace=20 alt="Letter H"> 
+		</div>
+		
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-j.png" vspace=20 alt="Letter J">
+		</div>
+		
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-k.png" vspace=20 alt="Letter K">
+		</div>
+			
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp">
+						
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-l.png" vspace=20 alt="Letter L">
+		</div>
+			
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-m.png" vspace=20 alt="Letter M">
+		</div>
+		
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp">
+						
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-n.png" vspace=20 alt="Letter N">
+		</div>
+		
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-p.png" vspace=20 alt="Letter P">
+		</div>
+			
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-q.png" vspace=20 alt="Letter Q">
+		</div>
+			
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-r.png" vspace=20 alt="Letter R">
+		</div>
+		
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-s.png" vspace=20 alt="Letter S">
+		</div>
+		
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-t.png" vspace=20 alt="Letter T">
+		</div>
+			
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-v.png" vspace=20 alt="Letter V">
+		</div>
+			
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-w.png" vspace=20 alt="Letter W">
+		</div>
+		
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-x.png" vspace=20 alt="Letter X">
+		</div>
+		
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-y.png" vspace=20 alt="Letter Y">
+		</div>
+			
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown">
+							
+		<div class="img img-responsive">
+			<img src="img/phonics/letter-z.png" vspace=20 alt="Letter Z">
+		</div>
+			
+	</div>
+	
+	</div>
+	  </div>
+	  <div class="wow bounceInDown" data-wow-delay="0.2s">
+				<p class="wow bounceInUp" data-wow-delay="0.3s">Click the video to watch and hear the sound of consonants:</p>
+             <iframe width="1200" height="500" src="https://www.youtube.com/embed/W9JbyoQDd90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <h6>Video courtesy by <a href="https://www.youtube.com/channel/UCQD_yZCS2BGO_BXtYrXFg1Q" title="Badanamu">Badanamu</a></h6>
+			</div>
+	  
+    </div>
+	<button type="button" class = "button"><a href = "math.html">Let's go counting!</a></button>
+  </section>
+  
+  
+  <footer>
+  <div class ="footer-content">
+		<p>copyright &copy;2021 BSIT-I. designed by <span>Dana Latoja, Anzel Tolentino</span></p>
+		<p>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a></p>
+	</div>
+</footer>
+   
+
+  <!-- Core JavaScript Files -->
+  <script src="js/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/jquery.easing.min.js"></script>
+  <script src="js/jquery.sticky.js"></script>
+  <script src="js/jquery.scrollTo.js"></script>
+  <script src="js/stellar.js"></script>
+  <script src="js/wow.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/nivo-lightbox.min.js"></script>
+  <!-- Custom Theme JavaScript -->
+  <script src="js/custom.js"></script>
+  <script src="contactform/contactform.js"></script>
+
+</body>
+
+</html>
