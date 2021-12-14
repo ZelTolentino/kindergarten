@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title></title>
+
+  <!-- CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+  <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <link href="css/nivo-lightbox.css" rel="stylesheet" />
+  <link href="css/nivo-lightbox-theme/default/default.css" rel="stylesheet" type="text/css" />
+  <link href="css/owl.carousel.css" rel="stylesheet" media="screen" />
+  <link href="css/owl.theme.css" rel="stylesheet" media="screen" />
+  <link href="css/animate.css" rel="stylesheet" />
+  <link href="css/style.css" rel="stylesheet">
+  <link href="color/default.css" rel="stylesheet">
+  <!-- =======================================================
+    Theme Name: Lonely
+    Theme URL: https://bootstrapmade.com/free-html-bootstrap-template-lonely/
+    Author: BootstrapMade
+    Author URL: https://bootstrapmade.com
+  ======================================================= -->
+
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-custom">
+  <!-- Preloader -->
+  <div id="preloader">
+    <div id="load"></div>
+  </div>
+
+  <!-- Section: intro -->
+  <section id="intro" class="intro"></section>
+  <!-- /Section: intro -->
+
+  <!-- Navigation -->
+   <div id="navigation">
+    <nav class="navbar navbar-custom" role="navigation">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+
+         
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu">
+                                                <i class="fa fa-bars"></i>
+                                                </button>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="menu">
+              <ul class="nav navbar-nav">
+                <li class="active"><a href="index.html"><img src="img/gallery/building.png" alt="homepage"></a></li>
+                <li><a href="reading.html"><img src="img/gallery/book.png" alt="Reading page"></a></li>
+                <li><a href="math.html"><img src="img/gallery/abacus.png" alt="Mathematics page"></a></li>
+				<li><a href="shapes.html"><img src="img/gallery/game.png" alt="Shapes page"></a></li>
+				<li><a href="songs.html"><img src="img/gallery/party.png" alt="Music page"></a></li>
+				<li><a href="about.html"><img src="img/gallery/happy.png" alt="About page"></a></li>
+              </ul>
+            </div>
+            <!-- /.Navbar-collapse -->
+
+          </div>
+        </div>
+      </div>
+      <!-- /.container -->
+    </nav>
+  </div>
+  <!-- /Navigation -->
+
+  <!-- Section: about -->
+  <section id="colors" class="home-section text-center">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-12 col-lg-12">
+          <div class="wow bounceInUp" data-wow-delay="0.4s">
+            <h1>Let's learn the colors!</h1>
+            </div>
+			  <p class="wow bounceInUp" data-wow-delay="0.3s">Do you know your colors?</p>
+          </div>
+        </div>
+		 <div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp"> 
+							
+		<div class="img img-responsive">
+			<img src="img//colors/red.png" alt="Color-Red">
+		</div>
+			
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown"> 
+							
+		<div class="img img-responsive">
+			<img src="img/colors/orange.png" alt="Color-Orange">
+		</div>
+		
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp"> 
+							
+		<div class="img img-responsive">
+			<img src="img/colors/yellow.png" alt="Color-Yellow">
+		</div>
+		
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown"> 
+							
+		<div class="img img-responsive">
+			<img src="img/colors/green.png" alt="Color-Green">
+		</div>
+			
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown"> 
+							
+		<div class="img img-responsive">
+			<img src="img/colors/blue.png" alt="Color-Blue">
+		</div>
+			
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp"> 
+							
+		<div class="img img-responsive">
+			<img src="img/colors/violet.png" alt="Color-Violet">
+		</div>
+		
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown">
+							
+		<div class="img img-responsive">
+			<img src="img/colors/pink.png" alt="Color-Pink">
+		</div>
+		
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp">
+							
+		<div class="img img-responsive">
+			<img src="img/colors/brown.png" alt="Color-Brown">
+		</div>			
+						
+	</div>
+	</div>
+  </section>
+  
+    <section id="separator" class="home-section parallax text-center" data-stellar-background-ratio="0.5"></section>
+  
+  <section id="shapes" class="home-section text-center bg-white">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-12 col-lg-12">
+          <div class="wow bounceInUp" data-wow-delay="0.4s">
+            <h1>Let's identify the shapes!</h1>
+            </div>
+          </div>
+        </div>
+		 <div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp"> 
+							
+		<div class="img img-responsive">
+			<img src="img/shapes/triangle.png" alt="Tringle">
+		</div>
+			
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown"> 
+							
+		<div class="img img-responsive">
+			<img src="img/shapes/square.png" alt="Square">
+		</div>
+		
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp"> 
+							
+		<div class="img img-responsive">
+			<img src="img/shapes/circle.png" alt="Circle">
+		</div>
+		
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown"> 
+							
+		<div class="img img-responsive">
+			<img src="img/shapes/rectangle.png" alt="Rectangle">
+		</div>
+			
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown"> 
+							
+		<div class="img img-responsive">
+			<img src="img/shapes/heart.png" alt="Heart">
+		</div>
+			
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp"> 
+							
+		<div class="img img-responsive">
+			<img src="img/shapes/oval.png" alt="Oval">
+		</div>
+		
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown">
+							
+		<div class="img img-responsive">
+			<img src="img/shapes/diamond.png" alt="Diamond">
+		</div>
+		
+						
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp">
+							
+		<div class="img img-responsive">
+			<img src="img/shapes/star.png" alt="Star">
+		</div>			
+						
+	</div>
+	
+	</div>
+	  </div>  
+    </div>
+	<br>
+	<button type="button" class = "button"><a href = "about.html">Next Page</a></button>
+  </section>
+  
+  
+  <footer>
+  <div class ="footer-content">
+		<p>copyright &copy;2021 BSIT-I. designed by <span>Dana Latoja, Anzel Tolentino</span></p>
+		<p>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a></p>
+	</div>
+</footer>
+   
+
+  <!-- Core JavaScript Files -->
+  <script src="js/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/jquery.easing.min.js"></script>
+  <script src="js/jquery.sticky.js"></script>
+  <script src="js/jquery.scrollTo.js"></script>
+  <script src="js/stellar.js"></script>
+  <script src="js/wow.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/nivo-lightbox.min.js"></script>
+  <!-- Custom Theme JavaScript -->
+  <script src="js/custom.js"></script>
+  <script src="contactform/contactform.js"></script>
+
+</body>
+
+</html>
