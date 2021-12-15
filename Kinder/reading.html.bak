@@ -59,7 +59,6 @@
                 <li><a href="math.html"><img src="img/gallery/abacus.png" alt="Mathematics page"></a></li>
 				<li><a href="shapes.html"><img src="img/gallery/game.png" alt="Shapes page"></a></li>
 				<li><a href="songs.html"><img src="img/gallery/party.png" alt="Music page"></a></li>
-				<li><a href="about.html"><img src="img/gallery/happy.png" alt="About page"></a></li>
               </ul>
             </div>
             <!-- /.Navbar-collapse -->
