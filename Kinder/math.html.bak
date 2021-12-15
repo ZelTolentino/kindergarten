@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title></title>
+
+  <!-- CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+  <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <link href="css/nivo-lightbox.css" rel="stylesheet" />
+  <link href="css/nivo-lightbox-theme/default/default.css" rel="stylesheet" type="text/css" />
+  <link href="css/owl.carousel.css" rel="stylesheet" media="screen" />
+  <link href="css/owl.theme.css" rel="stylesheet" media="screen" />
+  <link href="css/animate.css" rel="stylesheet" />
+  <link href="css/style.css" rel="stylesheet">
+  <link href="color/default.css" rel="stylesheet">
+  <!-- =======================================================
+    Theme Name: Lonely
+    Theme URL: https://bootstrapmade.com/free-html-bootstrap-template-lonely/
+    Author: BootstrapMade
+    Author URL: https://bootstrapmade.com
+  ======================================================= -->
+
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-custom">
+  <!-- Preloader -->
+  <div id="preloader">
+    <div id="load"></div>
+  </div>
+
+  <!-- Section: intro -->
+  <section id="intro" class="intro">
+
+  </section>
+  <!-- /Section: intro -->
+
+  <!-- Navigation -->
+  <div id="navigation">
+    <nav class="navbar navbar-custom" role="navigation">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu">
+                                                <i class="fa fa-bars"></i>
+                                                </button>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="menu">
+              <ul class="nav navbar-nav">
+                <li class="active"><a href="index.html"><img src="img/gallery/building.png" alt="Castle for home"></a></li>
+                <li><a href="reading.html"><img src="img/gallery/book.png" alt="Reading page"></a></li>
+                <li><a href="math.html"><img src="img/gallery/abacus.png" alt="Mathematics page"></a></li>
+				<li><a href="shapes.html"><img src="img/gallery/game.png" alt="Shapes page"></a></li>
+				<li><a href="songs.html"><img src="img/gallery/party.png" alt="Music page"></a></li>
+				<li><a href="about.html"><img src="img/gallery/happy.png" alt="About page"></a></li>
+              </ul>
+            </div>
+            <!-- /.Navbar-collapse -->
+
+          </div>
+        </div>
+      </div>
+      <!-- /.container -->
+    </nav>
+  </div>
+  <!-- /Navigation -->
+
+  <!-- Section: about -->
+	<section id="numbers" class="home-section text-center">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+
+          <div class="section-heading text-center">
+            <div class="wow bounceInDown" data-wow-delay="0.2s">
+              <h1>Let's learn how to count!</h1>
+            </div>
+			 <p class="wow bounceInUp" data-wow-delay="0.3s">Let's learn the numbers with the animals.</p>
+          </div>
+          </div>
+		  <div>
+
+        </div>
+		</div>
+		<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp">						
+		<div class="img img-responsive">
+			<img src="img/numbers/number-1.png" alt="Numbers to Learn">
+		</div>
+			<h3>Giraffe</h3>		
+	</div>
+	
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown">
+							
+		<div class="img img-responsive">
+			<img src="img/numbers/number-2.png" alt="Numbers to Learn">
+		</div>
+			<h3>Monkey</h3>
+		</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp">
+							
+		<div class="img img-responsive">
+			<img src="img/numbers/number-3.png" alt="Numbers to Learn">
+		</div>
+			<h3>Rabbit</h3>				
+	</div>
+	
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown">
+							
+		<div class="img img-responsive">
+			<img src="img/numbers/number-4.png" alt="Numbers to Learn">
+		</div>
+			<h3>Turtle</h3>				
+	</div>
+	
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown">
+							
+		<div class="img img-responsive">
+			<img src="img/numbers/number-5.png" alt="Numbers to Learn">
+		</div>
+			<h3>Dog</h3>					
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp">
+							
+		<div class="img img-responsive">
+			<img src="img/numbers/number-6.png" alt="Numbers to Learn">
+		</div>
+			<h3>Cat</h3>			
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown">
+							
+		<div class="img img-responsive">
+			<img src="img/numbers/number-7.png" alt="Numbers to Learn">
+		</div>
+			<h3>Ladybugs</h3>					
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp">
+							
+		<div class="img img-responsive">
+			<img src="img/numbers/number-8.png" alt="Numbers to Learn">
+		</div>
+			<h3>Pig</h3>					
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInUp">
+							
+		<div class="img img-responsive">
+			<img src="img/numbers/number-9.png" alt="Numbers to Learn">
+		</div>
+			<h3>Butterfly</h3>				
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12 text-center wow bounceInDown">
+							
+		<div class="img img-responsive">
+			<img src="img/numbers/number-10.png" alt="Numbers to Learn">
+		</div>
+			<h3>Bee</h3>
+						
+	</div>
+		
+		</div>
+	</section>
+  <!-- Section: separator -->
+  <section id="separator" class="home-section parallax text-center" data-stellar-background-ratio="0.5"></section>
+  <!-- /Section: separator -->
+
+  <section id="number-song" class="home-section text-center bg-numbers">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-12 col-lg-12">
+          <div class="wow bounceInUp" data-wow-delay="0.4s">
+            <h2>Master the numbers with a song</h2>
+            </div>
+          </div>
+        </div>
+	<div class="wow bounceInDown" data-wow-delay="0.2s">
+			<p class="wow bounceInUp" data-wow-delay="0.3s">Click the video to watch the song:</p>
+              <iframe width="1200" height="500" src="https://www.youtube.com/embed/k0SkWCCWrF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <h6>Video courtesy by <a href="https://www.youtube.com/channel/UCjVkjd2VWCWO-9DHRQER3Yg" title="KidsCamp">KidsCamp - Education</a></h6>
+			</div>
+			
+    </div>
+	<button type="button" class = "button"><a href = "shapes.html">Let's go color!</a></button>
+  </section>
+  <!-- /Section: services -->
+
+	<footer>
+	  <div class ="footer-content">
+			<p>copyright &copy;2021 BSIT-I. designed by <span>Dana Latoja, Anzel Tolentino</span></p>
+			<p>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a></p>
+		</div>
+	</footer>
+  <!-- Core JavaScript Files -->
+  <script src="js/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/jquery.easing.min.js"></script>
+  <script src="js/jquery.sticky.js"></script>
+  <script src="js/jquery.scrollTo.js"></script>
+  <script src="js/stellar.js"></script>
+  <script src="js/wow.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/nivo-lightbox.min.js"></script>
+  <!-- Custom Theme JavaScript -->
+  <script src="js/custom.js"></script>
+  <script src="contactform/contactform.js"></script>
+
+</body>
+
+</html>
